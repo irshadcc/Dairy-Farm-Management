@@ -1,4 +1,5 @@
 while true ; do
 
-	echo 'hi' ;
+	python -m http.server 8080
+
 done ;
